@@ -1,5 +1,5 @@
-# Calculadora React
-Calculadora feito em React.
+﻿# Calculadora React
+Calculadora feita em React.
 
 ## Tecnologias usadas
 - React 18
@@ -10,7 +10,12 @@ Calculadora feito em React.
 
 ## Como iniciar o projeto
 Instale as dependencias e inicie:
+
+```bash
 npm install
 npm start
+```
 
-
+## Estrutura do projeto
+- src/: componentes e logica da calculadora
+- public/: arquivos estaticos
